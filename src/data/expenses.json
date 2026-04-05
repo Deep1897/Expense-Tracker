@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "category": "Groceries",
+    "amount": 50,
+    "description": "Weekly grocery run",
+    "date": "2026-04-01"
+  },
+  {
+    "id": "2",
+    "category": "Transport",
+    "amount": 20,
+    "description": "Metro monthly pass",
+    "date": "2026-04-02"
+  },
+  {
+    "id": "3",
+    "category": "Utilities",
+    "amount": 80,
+    "description": "Electricity bill",
+    "date": "2026-04-03"
+  }
+]
